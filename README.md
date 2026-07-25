@@ -13,7 +13,10 @@ This repository contains my practice exercises, notebooks, and small projects wh
 
 ## Data Sets
 Pima Indians Diabetes - https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database for pandas 1-6 question
+
 UCI ML Drug Review - https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018 for pandas 7-11 question and capston
+
+Download the dataset and place it in data/ before running.
 
 ## Repository Structure
 

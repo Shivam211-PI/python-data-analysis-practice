@@ -7,6 +7,7 @@ This repository contains my practice exercises, notebooks, and small projects wh
 - Python
 - NumPy
 - Pandas
+- Matplotlib
 - Data cleaning and manipulation
 - Data analysis
 - Jupyter Notebook
@@ -26,8 +27,6 @@ Download the dataset and place it in data/ before running
 ## Future Learning
 
 I will continue updating this repository as I learn and practise:
-
-- Matplotlib
 - Statistics
 - SQL
 - Machine Learning

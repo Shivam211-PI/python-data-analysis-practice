@@ -16,6 +16,7 @@ Pima Indians Diabetes - https://www.kaggle.com/datasets/uciml/pima-indians-diabe
 
 UCI ML Drug Review - https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018 for pandas 7-11 question and capston
 
+Download the dataset and place it in data/ before running
 ## Repository Structure
 
 - `python/` - Python practice exercises
